@@ -10,18 +10,6 @@ Browse trending movies, search for your favorite titles, and explore detailed mo
 
 ---
 
-## 🚀 Live Demo
-
-https://your-vercel-url.vercel.app
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of your application here after deployment.
-
----
-
 ## ✨ Features
 
 - 🎬 Browse trending movies
@@ -93,20 +81,10 @@ VITE_APPWRITE_DATABASE_ID=
 VITE_APPWRITE_COLLECTION_ID=
 ```
 
-Add your own TMDB and Appwrite credentials.
-
----
-
 ## ▶️ Running the Project
 
 ```bash
 npm run dev
-```
-
-Visit:
-
-```
-http://localhost:5173
 ```
 
 ---
@@ -140,15 +118,3 @@ The application can be deployed on:
 - 📄 Pagination
 
 ---
-
-## 👨‍💻 Author
-
-**Ritik Singh**
-
-GitHub: https://github.com/Ritik-Singh-027
-
----
-
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
